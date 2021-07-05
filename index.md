@@ -1,5 +1,5 @@
 ﻿# Garden Monitoring system
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+This project will detect whether plants need water or if they have enough water. If the plant has enough water there is no need to over fill it when the light sensor comes on. If it is dry then the light sensor will detect water is needed and then you should water your plant and not leave it dry.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
